@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/lovetips" android:icon="@drawable/lovetips"
+            android:title="Love Tips" />
+        <item android:id="@+id/nav_gallery" android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item android:id="@+id/events" android:icon="@drawable/icon"
+            android:title="Events" />
+        <item android:id="@+id/maps" android:icon="@android:drawable/ic_dialog_map"
+            android:title="Maps" />
+    </group>
+
+    <item android:title="Music">
+        <menu>
+            <item android:id="@+id/music" android:icon="@android:drawable/ic_menu_slideshow"
+                android:title="Love Songs" />
+
+        </menu>
+    </item>
+
+</menu>

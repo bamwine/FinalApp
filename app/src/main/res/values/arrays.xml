@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_drawer_items">
+      	<item>Love Tips</item>
+        <item>Love Songs</item>
+        <item>Gallery</item>
+        <item>Events</item>       	
+        <item>Maps</item>      
+        
+    </string-array>
+    
+    <array name="nav_drawer_icons">
+        <item>@drawable/lovetips</item> 
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_gallery</item>       
+      	<item>@drawable/icon</item>
+        <item>@drawable/ic_events</item> 
+    </array>
+    
+    
+     <array name="sublist">
+       <item>Home</item>
+        <item>Manifesto</item>
+        <item>News</item>
+        <item>About</item>       	
+        <item>Gallery</item>      
+        <item>Speechs</item>
+        <item>Gallery</item>      
+        <item>Speechs</item>
+    </array>
+    
+</resources>
